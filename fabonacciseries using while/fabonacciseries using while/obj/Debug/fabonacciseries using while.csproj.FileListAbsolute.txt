@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\obj\Debug\fabonacciseries using while.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\obj\Debug\fabonacciseries using while.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\obj\Debug\fabonacciseries using while.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\bin\Debug\fabonacciseries using while.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\bin\Debug\fabonacciseries using while.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\bin\Debug\fabonacciseries using while.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\obj\Debug\fabonacciseries using while.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\fabonacciseries using while\fabonacciseries using while\obj\Debug\fabonacciseries using while.pdb

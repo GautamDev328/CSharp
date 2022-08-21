@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\bin\Debug\Even odd usingDo.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\bin\Debug\Even odd usingDo.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\bin\Debug\Even odd usingDo.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\obj\Debug\Even odd usingDo.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\obj\Debug\Even odd usingDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\obj\Debug\Even odd usingDo.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\obj\Debug\Even odd usingDo.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\Even odd usingDo\Even odd usingDo\obj\Debug\Even odd usingDo.pdb

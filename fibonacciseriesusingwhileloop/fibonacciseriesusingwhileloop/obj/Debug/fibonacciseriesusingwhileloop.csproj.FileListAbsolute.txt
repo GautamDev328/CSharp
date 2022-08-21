@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\bin\Debug\fibonacciseriesusingwhileloop.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\bin\Debug\fibonacciseriesusingwhileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\bin\Debug\fibonacciseriesusingwhileloop.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\obj\Debug\fibonacciseriesusingwhileloop.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\obj\Debug\fibonacciseriesusingwhileloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\obj\Debug\fibonacciseriesusingwhileloop.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\obj\Debug\fibonacciseriesusingwhileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\fibonacciseriesusingwhileloop\fibonacciseriesusingwhileloop\obj\Debug\fibonacciseriesusingwhileloop.pdb

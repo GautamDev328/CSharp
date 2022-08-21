@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\bin\Debug\factorail using whileloop.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\bin\Debug\factorail using whileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\bin\Debug\factorail using whileloop.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\obj\Debug\factorail using whileloop.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\obj\Debug\factorail using whileloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\obj\Debug\factorail using whileloop.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\obj\Debug\factorail using whileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\C#\factorail using whileloop\factorail using whileloop\obj\Debug\factorail using whileloop.pdb
