@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\bin\Debug\NoParameteronlyreturn.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\bin\Debug\NoParameteronlyreturn.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\bin\Debug\NoParameteronlyreturn.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\obj\Debug\NoParameteronlyreturn.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\obj\Debug\NoParameteronlyreturn.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\obj\Debug\NoParameteronlyreturn.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\obj\Debug\NoParameteronlyreturn.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\NoParameteronlyreturn\NoParameteronlyreturn\obj\Debug\NoParameteronlyreturn.pdb

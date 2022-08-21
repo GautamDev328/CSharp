@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\bin\Debug\whileloop.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\obj\Debug\whileloop.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\obj\Debug\whileloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\obj\Debug\whileloop.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\Users\coolg\Desktop\Sql(chetu\Simple One Project\whileloop\whileloop\obj\Debug\whileloop.pdb
