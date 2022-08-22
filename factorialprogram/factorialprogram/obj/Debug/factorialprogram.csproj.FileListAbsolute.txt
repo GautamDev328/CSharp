@@ -1,0 +1,6 @@
+D:\sqlg\Do - while\factorialprogram\factorialprogram\bin\Debug\factorialprogram.exe.config
+D:\sqlg\Do - while\factorialprogram\factorialprogram\bin\Debug\factorialprogram.exe
+D:\sqlg\Do - while\factorialprogram\factorialprogram\bin\Debug\factorialprogram.pdb
+D:\sqlg\Do - while\factorialprogram\factorialprogram\obj\Debug\factorialprogram.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\factorialprogram\factorialprogram\obj\Debug\factorialprogram.exe
+D:\sqlg\Do - while\factorialprogram\factorialprogram\obj\Debug\factorialprogram.pdb

@@ -1,0 +1,7 @@
+D:\sqlg\Do - while\heighestNumber\heighestNumber\bin\Debug\heighestNumber.exe.config
+D:\sqlg\Do - while\heighestNumber\heighestNumber\bin\Debug\heighestNumber.exe
+D:\sqlg\Do - while\heighestNumber\heighestNumber\bin\Debug\heighestNumber.pdb
+D:\sqlg\Do - while\heighestNumber\heighestNumber\obj\Debug\heighestNumber.csproj.AssemblyReference.cache
+D:\sqlg\Do - while\heighestNumber\heighestNumber\obj\Debug\heighestNumber.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\heighestNumber\heighestNumber\obj\Debug\heighestNumber.exe
+D:\sqlg\Do - while\heighestNumber\heighestNumber\obj\Debug\heighestNumber.pdb

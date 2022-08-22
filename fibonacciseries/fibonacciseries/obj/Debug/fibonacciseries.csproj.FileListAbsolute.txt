@@ -1,0 +1,6 @@
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.exe.config
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.exe
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\bin\Debug\fibonacciseries.pdb
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.exe
+D:\sqlg\Do - while\fibonacciseries\fibonacciseries\obj\Debug\fibonacciseries.pdb

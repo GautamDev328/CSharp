@@ -1,0 +1,6 @@
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\bin\Debug\Even-Odd Number.exe.config
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\bin\Debug\Even-Odd Number.exe
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\bin\Debug\Even-Odd Number.pdb
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\obj\Debug\Even-Odd Number.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\obj\Debug\Even-Odd Number.exe
+D:\sqlg\Do - while\Even-Odd Number\Even-Odd Number\obj\Debug\Even-Odd Number.pdb

@@ -1,0 +1,6 @@
+D:\sqlg\Do - while\cubeNumber\cubeNumber\bin\Debug\cubeNumber.exe.config
+D:\sqlg\Do - while\cubeNumber\cubeNumber\bin\Debug\cubeNumber.exe
+D:\sqlg\Do - while\cubeNumber\cubeNumber\bin\Debug\cubeNumber.pdb
+D:\sqlg\Do - while\cubeNumber\cubeNumber\obj\Debug\cubeNumber.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\cubeNumber\cubeNumber\obj\Debug\cubeNumber.exe
+D:\sqlg\Do - while\cubeNumber\cubeNumber\obj\Debug\cubeNumber.pdb

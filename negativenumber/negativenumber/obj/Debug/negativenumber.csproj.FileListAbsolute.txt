@@ -1,0 +1,7 @@
+D:\sqlg\Do - while\negativenumber\negativenumber\bin\Debug\negativenumber.exe.config
+D:\sqlg\Do - while\negativenumber\negativenumber\bin\Debug\negativenumber.exe
+D:\sqlg\Do - while\negativenumber\negativenumber\bin\Debug\negativenumber.pdb
+D:\sqlg\Do - while\negativenumber\negativenumber\obj\Debug\negativenumber.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\negativenumber\negativenumber\obj\Debug\negativenumber.exe
+D:\sqlg\Do - while\negativenumber\negativenumber\obj\Debug\negativenumber.pdb
+D:\sqlg\Do - while\negativenumber\negativenumber\obj\Debug\negativenumber.csproj.AssemblyReference.cache

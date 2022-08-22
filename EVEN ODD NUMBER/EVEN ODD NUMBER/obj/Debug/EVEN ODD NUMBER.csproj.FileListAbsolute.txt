@@ -1,0 +1,7 @@
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.exe.config
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.exe
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\bin\Debug\EVEN ODD NUMBER.pdb
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.csproj.AssemblyReference.cache
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.csproj.CoreCompileInputs.cache
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.exe
+D:\sqlg\Do - while\EVEN ODD NUMBER\EVEN ODD NUMBER\obj\Debug\EVEN ODD NUMBER.pdb
