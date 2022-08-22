@@ -1,0 +1,6 @@
+D:\sqlg\Pattern program\what-pattern\what-pattern\bin\Debug\what-pattern.exe.config
+D:\sqlg\Pattern program\what-pattern\what-pattern\bin\Debug\what-pattern.exe
+D:\sqlg\Pattern program\what-pattern\what-pattern\bin\Debug\what-pattern.pdb
+D:\sqlg\Pattern program\what-pattern\what-pattern\obj\Debug\what-pattern.csproj.CoreCompileInputs.cache
+D:\sqlg\Pattern program\what-pattern\what-pattern\obj\Debug\what-pattern.exe
+D:\sqlg\Pattern program\what-pattern\what-pattern\obj\Debug\what-pattern.pdb

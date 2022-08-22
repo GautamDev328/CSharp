@@ -1,0 +1,6 @@
+D:\sqlg\Pattern program\star-pattern\star-pattern\bin\Debug\star-pattern.exe.config
+D:\sqlg\Pattern program\star-pattern\star-pattern\bin\Debug\star-pattern.exe
+D:\sqlg\Pattern program\star-pattern\star-pattern\bin\Debug\star-pattern.pdb
+D:\sqlg\Pattern program\star-pattern\star-pattern\obj\Debug\star-pattern.csproj.CoreCompileInputs.cache
+D:\sqlg\Pattern program\star-pattern\star-pattern\obj\Debug\star-pattern.exe
+D:\sqlg\Pattern program\star-pattern\star-pattern\obj\Debug\star-pattern.pdb

@@ -1,0 +1,6 @@
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\bin\Debug\simplepattern program.exe.config
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\bin\Debug\simplepattern program.exe
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\bin\Debug\simplepattern program.pdb
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\obj\Debug\simplepattern program.csproj.CoreCompileInputs.cache
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\obj\Debug\simplepattern program.exe
+D:\sqlg\Pattern program\simplepattern program\simplepattern program\obj\Debug\simplepattern program.pdb

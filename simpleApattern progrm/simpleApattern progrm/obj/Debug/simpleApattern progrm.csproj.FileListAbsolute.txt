@@ -1,0 +1,6 @@
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\bin\Debug\simpleApattern progrm.exe.config
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\bin\Debug\simpleApattern progrm.exe
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\bin\Debug\simpleApattern progrm.pdb
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\obj\Debug\simpleApattern progrm.csproj.CoreCompileInputs.cache
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\obj\Debug\simpleApattern progrm.exe
+D:\sqlg\Pattern program\simpleApattern progrm\simpleApattern progrm\obj\Debug\simpleApattern progrm.pdb

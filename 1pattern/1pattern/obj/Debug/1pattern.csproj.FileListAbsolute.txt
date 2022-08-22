@@ -1,0 +1,7 @@
+D:\sqlg\Pattern program\1pattern\1pattern\bin\Debug\1pattern.exe.config
+D:\sqlg\Pattern program\1pattern\1pattern\bin\Debug\1pattern.exe
+D:\sqlg\Pattern program\1pattern\1pattern\bin\Debug\1pattern.pdb
+D:\sqlg\Pattern program\1pattern\1pattern\obj\Debug\1pattern.csproj.AssemblyReference.cache
+D:\sqlg\Pattern program\1pattern\1pattern\obj\Debug\1pattern.csproj.CoreCompileInputs.cache
+D:\sqlg\Pattern program\1pattern\1pattern\obj\Debug\1pattern.exe
+D:\sqlg\Pattern program\1pattern\1pattern\obj\Debug\1pattern.pdb
