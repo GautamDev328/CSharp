@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reverse even and odd   using Do in array program", "reverse even and odd   using Do in array program\reverse even and odd   using Do in array program.csproj", "{651D85C2-13F8-4CBD-8D36-11B64E2767CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651D85C2-13F8-4CBD-8D36-11B64E2767CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651D85C2-13F8-4CBD-8D36-11B64E2767CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651D85C2-13F8-4CBD-8D36-11B64E2767CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651D85C2-13F8-4CBD-8D36-11B64E2767CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA8B9F3-69A1-4CDD-B7ED-B877B0A00EF8}
+	EndGlobalSection
+EndGlobal

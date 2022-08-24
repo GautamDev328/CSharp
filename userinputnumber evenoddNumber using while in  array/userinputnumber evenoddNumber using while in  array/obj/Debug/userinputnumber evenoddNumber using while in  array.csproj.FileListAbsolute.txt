@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\obj\Debug\userinputnumber evenoddNumber using while in  array.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\obj\Debug\userinputnumber evenoddNumber using while in  array.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\obj\Debug\userinputnumber evenoddNumber using while in  array.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\bin\Debug\userinputnumber evenoddNumber using while in  array.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\bin\Debug\userinputnumber evenoddNumber using while in  array.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\bin\Debug\userinputnumber evenoddNumber using while in  array.pdb
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\obj\Debug\userinputnumber evenoddNumber using while in  array.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\userinputnumber evenoddNumber using while in  array\userinputnumber evenoddNumber using while in  array\obj\Debug\userinputnumber evenoddNumber using while in  array.pdb

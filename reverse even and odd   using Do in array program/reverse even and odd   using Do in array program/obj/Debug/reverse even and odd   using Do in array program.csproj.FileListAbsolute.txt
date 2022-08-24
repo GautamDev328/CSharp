@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\bin\Debug\reverse even and odd   using Do in array program.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\bin\Debug\reverse even and odd   using Do in array program.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\bin\Debug\reverse even and odd   using Do in array program.pdb
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\obj\Debug\reverse even and odd   using Do in array program.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\obj\Debug\reverse even and odd   using Do in array program.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\obj\Debug\reverse even and odd   using Do in array program.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\obj\Debug\reverse even and odd   using Do in array program.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\reverse even and odd   using Do in array program\reverse even and odd   using Do in array program\obj\Debug\reverse even and odd   using Do in array program.pdb
