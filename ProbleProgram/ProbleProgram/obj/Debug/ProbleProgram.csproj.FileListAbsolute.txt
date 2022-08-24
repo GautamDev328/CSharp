@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\bin\Debug\ProbleProgram.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\bin\Debug\ProbleProgram.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\bin\Debug\ProbleProgram.pdb
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\obj\Debug\ProbleProgram.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\obj\Debug\ProbleProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\obj\Debug\ProbleProgram.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\obj\Debug\ProbleProgram.exe
+C:\Users\coolg\Desktop\Sql(chetu\C#\ProbleProgram\ProbleProgram\obj\Debug\ProbleProgram.pdb
