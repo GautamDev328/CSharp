@@ -1,0 +1,52 @@
+// user input count the Max or Min Number
+ int i = 1;
+           int Max = 0;
+            int Min = 0;
+            while (i <= 5)
+            {
+                Console.WriteLine("Enter  Number: ");
+                int n = int.Parse(Console.ReadLine());
+              //  Console.WriteLine("Enter second Number: ");
+                int m = int.Parse(Console.ReadLine());
+
+                if (n <= m)
+                {
+                    Max++;
+                }
+
+                else
+                {
+                    Min++;
+
+                }
+                i++;
+
+
+                  
+                }
+            Console.WriteLine("Maximum Number: "+Max);
+            Console.WriteLine("Minimum Number: "+Min);
+            Console.ReadLine();
+            }
+        }
+    }
+/* OutPut:
+  Enter  Number:
+12
+11
+Enter  Number:
+21
+33
+Enter  Number:
+213
+22
+Enter  Number:
+213
+221
+Enter  Number:
+443
+4
+Maximum Number: 2
+Minimum Number: 3
+
+*/

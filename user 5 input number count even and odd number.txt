@@ -1,16 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace count_even_and_odd_number
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-          //  Console.WriteLine("Enter a number :");
+ //  user 5 input count even and odd number
             int n = 1;
             int even = 0;
             int odd = 0;
@@ -30,3 +18,18 @@ namespace count_even_and_odd_number
         }
     }
 }
+/* Output:
+Enter a number:
+12
+Enter a number:
+11
+Enter a number:
+15
+Enter a number:
+24
+Enter a number:
+19
+ count Even number :2
+ count Odd number: 3
+
+ */
