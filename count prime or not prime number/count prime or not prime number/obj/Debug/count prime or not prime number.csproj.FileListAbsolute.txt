@@ -1,0 +1,7 @@
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\bin\Debug\count prime or not prime number.exe.config
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\bin\Debug\count prime or not prime number.exe
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\bin\Debug\count prime or not prime number.pdb
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\obj\Debug\count prime or not prime number.csproj.AssemblyReference.cache
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\obj\Debug\count prime or not prime number.csproj.CoreCompileInputs.cache
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\obj\Debug\count prime or not prime number.exe
+D:\gautam\New folder\New folde\count prime or not prime number\count prime or not prime number\obj\Debug\count prime or not prime number.pdb
