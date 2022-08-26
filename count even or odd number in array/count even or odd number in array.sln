@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "count even or odd number in array", "count even or odd number in array\count even or odd number in array.csproj", "{73650E96-D902-4BCB-8008-EBB1835B47B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73650E96-D902-4BCB-8008-EBB1835B47B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73650E96-D902-4BCB-8008-EBB1835B47B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73650E96-D902-4BCB-8008-EBB1835B47B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73650E96-D902-4BCB-8008-EBB1835B47B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7FD434-0C65-449F-90EA-432C2B075964}
+	EndGlobalSection
+EndGlobal

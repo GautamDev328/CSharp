@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "user 5 input number count  prime or not prime  number", "user 5 input number count  prime or not prime  number\user 5 input number count  prime or not prime  number.csproj", "{AD6CB061-85FE-4C04-B0AA-6CE20EB56DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6CB061-85FE-4C04-B0AA-6CE20EB56DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6CB061-85FE-4C04-B0AA-6CE20EB56DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6CB061-85FE-4C04-B0AA-6CE20EB56DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6CB061-85FE-4C04-B0AA-6CE20EB56DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C09A90E8-6A2F-4E55-BE8B-D4960AE3E76C}
+	EndGlobalSection
+EndGlobal

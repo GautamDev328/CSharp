@@ -1,0 +1,6 @@
+D:\gautam\New folder\count even-odd array\count even-odd array\bin\Debug\count even-odd array.exe.config
+D:\gautam\New folder\count even-odd array\count even-odd array\bin\Debug\count even-odd array.exe
+D:\gautam\New folder\count even-odd array\count even-odd array\bin\Debug\count even-odd array.pdb
+D:\gautam\New folder\count even-odd array\count even-odd array\obj\Debug\count even-odd array.csproj.CoreCompileInputs.cache
+D:\gautam\New folder\count even-odd array\count even-odd array\obj\Debug\count even-odd array.exe
+D:\gautam\New folder\count even-odd array\count even-odd array\obj\Debug\count even-odd array.pdb

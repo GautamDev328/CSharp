@@ -1,0 +1,7 @@
+D:\gautam\squarecube sum Program\squarecube sum Program\bin\Debug\squarecube sum Program.exe.config
+D:\gautam\squarecube sum Program\squarecube sum Program\bin\Debug\squarecube sum Program.exe
+D:\gautam\squarecube sum Program\squarecube sum Program\bin\Debug\squarecube sum Program.pdb
+D:\gautam\squarecube sum Program\squarecube sum Program\obj\Debug\squarecube sum Program.csproj.AssemblyReference.cache
+D:\gautam\squarecube sum Program\squarecube sum Program\obj\Debug\squarecube sum Program.csproj.CoreCompileInputs.cache
+D:\gautam\squarecube sum Program\squarecube sum Program\obj\Debug\squarecube sum Program.exe
+D:\gautam\squarecube sum Program\squarecube sum Program\obj\Debug\squarecube sum Program.pdb

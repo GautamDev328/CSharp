@@ -1,0 +1,7 @@
+D:\gautam\simple program in sum count all number\simple program in sum count all number\bin\Debug\simple program in sum count all number.exe.config
+D:\gautam\simple program in sum count all number\simple program in sum count all number\bin\Debug\simple program in sum count all number.exe
+D:\gautam\simple program in sum count all number\simple program in sum count all number\bin\Debug\simple program in sum count all number.pdb
+D:\gautam\simple program in sum count all number\simple program in sum count all number\obj\Debug\simple program in sum count all number.csproj.AssemblyReference.cache
+D:\gautam\simple program in sum count all number\simple program in sum count all number\obj\Debug\simple program in sum count all number.csproj.CoreCompileInputs.cache
+D:\gautam\simple program in sum count all number\simple program in sum count all number\obj\Debug\simple program in sum count all number.exe
+D:\gautam\simple program in sum count all number\simple program in sum count all number\obj\Debug\simple program in sum count all number.pdb

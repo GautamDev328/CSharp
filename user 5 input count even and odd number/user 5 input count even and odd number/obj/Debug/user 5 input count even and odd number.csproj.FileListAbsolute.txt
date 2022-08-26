@@ -1,0 +1,7 @@
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\bin\Debug\user 5 input count even and odd number.exe.config
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\bin\Debug\user 5 input count even and odd number.exe
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\bin\Debug\user 5 input count even and odd number.pdb
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\obj\Debug\user 5 input count even and odd number.csproj.AssemblyReference.cache
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\obj\Debug\user 5 input count even and odd number.csproj.CoreCompileInputs.cache
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\obj\Debug\user 5 input count even and odd number.exe
+D:\gautam\New folder\user 5 input count even and odd number\user 5 input count even and odd number\obj\Debug\user 5 input count even and odd number.pdb

@@ -1,0 +1,7 @@
+D:\gautam\count even or odd number in array\count even or odd number in array\bin\Debug\count even or odd number in array.exe.config
+D:\gautam\count even or odd number in array\count even or odd number in array\bin\Debug\count even or odd number in array.exe
+D:\gautam\count even or odd number in array\count even or odd number in array\bin\Debug\count even or odd number in array.pdb
+D:\gautam\count even or odd number in array\count even or odd number in array\obj\Debug\count even or odd number in array.csproj.AssemblyReference.cache
+D:\gautam\count even or odd number in array\count even or odd number in array\obj\Debug\count even or odd number in array.csproj.CoreCompileInputs.cache
+D:\gautam\count even or odd number in array\count even or odd number in array\obj\Debug\count even or odd number in array.exe
+D:\gautam\count even or odd number in array\count even or odd number in array\obj\Debug\count even or odd number in array.pdb
