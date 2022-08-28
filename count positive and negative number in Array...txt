@@ -1,0 +1,51 @@
+// count positive and negative number in Array..
+            Console.WriteLine("Enter Array number :");
+            int n = int.Parse(Console.ReadLine());
+               int [] a = new int[n];
+            int Positive = 0;
+            int negative  = 0;
+            int k = 0;
+            int i = 1;
+            while (i <= n)
+            {
+                Console.WriteLine("Enter a number :");
+
+                a[k] = int.Parse(Console.ReadLine());
+                if (a[k] >= 0)
+                    Positive++;
+                else
+                    negative++;
+                i++;
+
+
+            }
+            Console.WriteLine("Positive Number :"+ Positive);
+            Console.WriteLine("Negative Number :"+ negative);
+
+            Console.ReadLine();
+
+
+
+        }
+    }
+}
+
+/*
+ Output:
+Enter Array number :
+5
+Enter a number :
+4
+Enter a number :
+3
+Enter a number :
+-2
+Enter a number :
+-1
+Enter a number :
+1
+Positive Number :3
+Negative Number :2
+
+
+*/

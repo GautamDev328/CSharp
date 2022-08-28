@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\obj\Debug\MultidimesionalArray sum program.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\obj\Debug\MultidimesionalArray sum program.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\obj\Debug\MultidimesionalArray sum program.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\bin\Debug\MultidimesionalArray sum program.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\bin\Debug\MultidimesionalArray sum program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\bin\Debug\MultidimesionalArray sum program.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\obj\Debug\MultidimesionalArray sum program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray sum program\MultidimesionalArray sum program\obj\Debug\MultidimesionalArray sum program.pdb

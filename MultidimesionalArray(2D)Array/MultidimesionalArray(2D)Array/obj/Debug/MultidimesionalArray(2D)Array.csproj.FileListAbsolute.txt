@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\obj\Debug\MultidimesionalArray(2D)Array.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\obj\Debug\MultidimesionalArray(2D)Array.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\obj\Debug\MultidimesionalArray(2D)Array.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\bin\Debug\MultidimesionalArray(2D)Array.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\bin\Debug\MultidimesionalArray(2D)Array.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\bin\Debug\MultidimesionalArray(2D)Array.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\obj\Debug\MultidimesionalArray(2D)Array.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\MultidimesionalArray(2D)Array\MultidimesionalArray(2D)Array\obj\Debug\MultidimesionalArray(2D)Array.pdb

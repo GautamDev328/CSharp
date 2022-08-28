@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\obj\Debug\SearchProgram.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\obj\Debug\SearchProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\obj\Debug\SearchProgram.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\bin\Debug\SearchProgram.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\bin\Debug\SearchProgram.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\bin\Debug\SearchProgram.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\obj\Debug\SearchProgram.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\SearchProgram\SearchProgram\obj\Debug\SearchProgram.pdb

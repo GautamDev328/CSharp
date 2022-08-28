@@ -1,0 +1,14 @@
+ // square sum 
+  Console.Write("Enter the Number: ");
+            int i = 1; 
+            int  n, sum = 0;
+            n = int.Parse(Console.ReadLine());
+               while ( i <= n)
+            {
+                Console.WriteLine("{0}  ", i*i);
+                sum =sum +i*i ;
+                i++;
+               // Console.WriteLine(  sum);
+            }
+        Console.Write("The Sum of cube Natural sum Number upto {0} terms : {1} ", n, sum);
+            Console.ReadLine();

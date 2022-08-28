@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\bin\Debug\Selection sort in array.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\bin\Debug\Selection sort in array.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\bin\Debug\Selection sort in array.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\obj\Debug\Selection sort in array.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\obj\Debug\Selection sort in array.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\obj\Debug\Selection sort in array.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\obj\Debug\Selection sort in array.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Selection sort in array\Selection sort in array\obj\Debug\Selection sort in array.pdb

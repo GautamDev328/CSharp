@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\bin\Debug\column sum in matrix.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\bin\Debug\column sum in matrix.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\bin\Debug\column sum in matrix.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\obj\Debug\column sum in matrix.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\obj\Debug\column sum in matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\obj\Debug\column sum in matrix.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\obj\Debug\column sum in matrix.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\column sum in matrix\column sum in matrix\obj\Debug\column sum in matrix.pdb
