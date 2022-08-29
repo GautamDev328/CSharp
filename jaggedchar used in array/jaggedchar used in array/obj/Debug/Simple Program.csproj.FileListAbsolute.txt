@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\bin\Debug\jaggedchar used in array.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\bin\Debug\jaggedchar used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\bin\Debug\jaggedchar used in array.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\obj\Debug\Simple Program.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\obj\Debug\Simple Program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\obj\Debug\jaggedchar used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jaggedchar used in array\jaggedchar used in array\obj\Debug\jaggedchar used in array.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\bin\Debug\jagged in character  name used in array.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\bin\Debug\jagged in character  name used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\bin\Debug\jagged in character  name used in array.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\obj\Debug\jagged in character  name used in array.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\obj\Debug\jagged in character  name used in array.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\obj\Debug\jagged in character  name used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\jagged in character  name used in array\jagged in character  name used in array\obj\Debug\jagged in character  name used in array.pdb

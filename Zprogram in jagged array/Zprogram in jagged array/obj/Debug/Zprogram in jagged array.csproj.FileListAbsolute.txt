@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\bin\Debug\Zprogram in jagged array.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\bin\Debug\Zprogram in jagged array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\bin\Debug\Zprogram in jagged array.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\obj\Debug\Zprogram in jagged array.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\obj\Debug\Zprogram in jagged array.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\obj\Debug\Zprogram in jagged array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Zprogram in jagged array\Zprogram in jagged array\obj\Debug\Zprogram in jagged array.pdb

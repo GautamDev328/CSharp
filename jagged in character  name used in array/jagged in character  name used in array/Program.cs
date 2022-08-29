@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace jagged_in_character__name_used_in_array
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("jagged_in_character__name_used_in_array");
+            char[][] ar = new char[3][];
+            ar[0] = new char[3];
+            ar[1] = new char[5];
+            ar[2] = new char[2];
+            ar[0][0] = 'A';
+            ar[0][1] = 'C';
+            ar[0][2] = 'D';
+            ar[1][0] = 'E';
+            ar[1][1] = 'F';
+            ar[1][2] = 'G';
+            ar[1][3] = 'H';
+            ar[1][4] = 'I';
+            ar[2][0] = 'J';
+            ar[2][1] = 'k';
+            for (int i = 0; i < ar.Length; i++)
+                //{
+                //    for (int j = 0; j < ar[i].Length; j++)
+                //    {
+                //        Console.WriteLine(ar[i][j] + " ");
+                //       // Console.WriteLine(ar[i].Length + " ");
+                Console.WriteLine(ar[i].Length + " ");
+            //    }
+
+
+            Console.ReadLine();
+            }
+        }
+    }
