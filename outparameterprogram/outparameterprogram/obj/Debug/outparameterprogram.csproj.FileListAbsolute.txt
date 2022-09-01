@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\bin\Debug\outparameterprogram.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\bin\Debug\outparameterprogram.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\bin\Debug\outparameterprogram.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\obj\Debug\outparameterprogram.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\obj\Debug\outparameterprogram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\obj\Debug\outparameterprogram.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\outparameterprogram\outparameterprogram\obj\Debug\outparameterprogram.pdb
