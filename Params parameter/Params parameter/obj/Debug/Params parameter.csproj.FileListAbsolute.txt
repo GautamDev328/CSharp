@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\bin\Debug\Params parameter.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\bin\Debug\Params parameter.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\bin\Debug\Params parameter.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\obj\Debug\Params parameter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\obj\Debug\Params parameter.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\obj\Debug\Params parameter.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Params parameter\Params parameter\obj\Debug\Params parameter.csproj.AssemblyReference.cache
