@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\obj\Debug\Revision count even and odd Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\bin\Debug\Revision count even and odd Number.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\bin\Debug\Revision count even and odd Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\bin\Debug\Revision count even and odd Number.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\obj\Debug\Revision count even and odd Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision count even and odd Number\Revision count even and odd Number\obj\Debug\Revision count even and odd Number.pdb

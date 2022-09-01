@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\bin\Debug\check prime number- not primenumber in array.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\bin\Debug\check prime number- not primenumber in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\bin\Debug\check prime number- not primenumber in array.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\obj\Debug\check prime number- not primenumber in array.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\obj\Debug\check prime number- not primenumber in array.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\obj\Debug\check prime number- not primenumber in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\check prime number- not primenumber in array\check prime number- not primenumber in array\obj\Debug\check prime number- not primenumber in array.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\bin\Debug\checkEven-Odd Number.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\bin\Debug\checkEven-Odd Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\bin\Debug\checkEven-Odd Number.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\obj\Debug\checkEven-Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\obj\Debug\checkEven-Odd Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\checkEven-Odd Number\checkEven-Odd Number\obj\Debug\checkEven-Odd Number.pdb

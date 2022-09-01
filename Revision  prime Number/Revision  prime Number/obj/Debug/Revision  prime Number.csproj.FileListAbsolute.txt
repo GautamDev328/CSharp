@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\bin\Debug\Revision  prime Number.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\bin\Debug\Revision  prime Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\bin\Debug\Revision  prime Number.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\obj\Debug\Revision  prime Number.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\obj\Debug\Revision  prime Number.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\obj\Debug\Revision  prime Number.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision  prime Number\Revision  prime Number\obj\Debug\Revision  prime Number.pdb

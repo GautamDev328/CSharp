@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\bin\Debug\repeat array program using While.exe.config
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\bin\Debug\repeat array program using While.exe
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\bin\Debug\repeat array program using While.pdb
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\obj\Debug\repeat array program using While.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\obj\Debug\repeat array program using While.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\obj\Debug\repeat array program using While.exe
+C:\Users\admin\source\repos\Project\repeat array program using While\repeat array program using While\obj\Debug\repeat array program using While.pdb

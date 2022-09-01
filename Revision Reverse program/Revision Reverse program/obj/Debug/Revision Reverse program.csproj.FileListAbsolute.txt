@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\bin\Debug\Revision Reverse program.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\bin\Debug\Revision Reverse program.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\bin\Debug\Revision Reverse program.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\obj\Debug\Revision Reverse program.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\obj\Debug\Revision Reverse program.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\obj\Debug\Revision Reverse program.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Revision Reverse program\Revision Reverse program\obj\Debug\Revision Reverse program.csproj.AssemblyReference.cache

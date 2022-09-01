@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\obj\Debug\char Simpleprogram used in array.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\obj\Debug\char Simpleprogram used in array.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\bin\Debug\char Simpleprogram used in array.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\bin\Debug\char Simpleprogram used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\bin\Debug\char Simpleprogram used in array.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\obj\Debug\char Simpleprogram used in array.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\char Simpleprogram used in array\char Simpleprogram used in array\obj\Debug\char Simpleprogram used in array.pdb

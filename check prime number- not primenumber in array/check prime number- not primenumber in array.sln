@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check prime number- not primenumber in array", "check prime number- not primenumber in array\check prime number- not primenumber in array.csproj", "{3AD751F1-5F03-4384-8B80-2D5090684FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AD751F1-5F03-4384-8B80-2D5090684FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD751F1-5F03-4384-8B80-2D5090684FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD751F1-5F03-4384-8B80-2D5090684FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD751F1-5F03-4384-8B80-2D5090684FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33376487-B8F5-413F-AB87-1B51FBEBE162}
+	EndGlobalSection
+EndGlobal
