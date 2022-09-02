@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\bin\Debug\Simple programs.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\bin\Debug\Simple programs.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\bin\Debug\Simple programs.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\obj\Debug\Simple programs.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\obj\Debug\Simple programs.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\obj\Debug\Simple programs.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Simple programs\Simple programs\obj\Debug\Simple programs.pdb
