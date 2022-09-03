@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\obj\Debug\Employee program use in get and set.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\bin\Debug\Employee program use in get and set.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\bin\Debug\Employee program use in get and set.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\bin\Debug\Employee program use in get and set.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\obj\Debug\Employee program use in get and set.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employee program use in get and set\Employee program use in get and set\obj\Debug\Employee program use in get and set.pdb

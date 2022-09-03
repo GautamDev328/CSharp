@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\obj\Debug\Employeeuse getter and setter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\bin\Debug\Employeeuse getter and setter.exe.config
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\bin\Debug\Employeeuse getter and setter.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\bin\Debug\Employeeuse getter and setter.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\obj\Debug\Employeeuse getter and setter.exe
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\obj\Debug\Employeeuse getter and setter.pdb
+C:\Users\admin\source\repos\Csharp-bt-jul22-gautamdev7033132629\Employeeuse getter and setter\Employeeuse getter and setter\obj\Debug\Employeeuse getter and setter.csproj.AssemblyReference.cache
