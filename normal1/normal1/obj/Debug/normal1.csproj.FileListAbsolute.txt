@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\bin\Debug\normal1.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\bin\Debug\normal1.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\bin\Debug\normal1.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\obj\Debug\normal1.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\obj\Debug\normal1.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\obj\Debug\normal1.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\obj\Debug\normal1.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal1\normal1\obj\Debug\normal1.pdb

@@ -1,0 +1,8 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\bin\Debug\normal inheritance program.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\bin\Debug\normal inheritance program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\bin\Debug\normal inheritance program.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\obj\Debug\normal inheritance program.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\obj\Debug\normal inheritance program.csproj.SuggestedBindingRedirects.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\obj\Debug\normal inheritance program.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\obj\Debug\normal inheritance program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\normal inheritance program\normal inheritance program\obj\Debug\normal inheritance program.pdb
