@@ -1,0 +1,7 @@
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\obj\Debug\Hierarchical inheritance program.csproj.AssemblyReference.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\obj\Debug\Hierarchical inheritance program.csproj.CoreCompileInputs.cache
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\bin\Debug\Hierarchical inheritance program.exe.config
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\bin\Debug\Hierarchical inheritance program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\bin\Debug\Hierarchical inheritance program.pdb
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\obj\Debug\Hierarchical inheritance program.exe
+C:\Users\coolg\Desktop\Sql(chetu\company practice program\Hierarchical inheritance program\Hierarchical inheritance program\obj\Debug\Hierarchical inheritance program.pdb
